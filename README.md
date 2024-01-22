@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jheickson&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=750)](https://git.io/streak-stats)
+
