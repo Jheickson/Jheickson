@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jheickson&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=750)
 
 ![GitHub Metrics](github-metrics.svg)
 
 ![WakaTime Metrics](metrics.plugin.wakatime.svg)
+
+</p>
