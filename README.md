@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jheickson&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=750" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jheickson&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=750)
+<p align="center">
+  <img src="github-metrics.svg" />
+</p>
 
-![GitHub Metrics](github-metrics.svg)
-
-![WakaTime Metrics](metrics.plugin.wakatime.svg)
-
+<p align="center">
+  <img src="metrics.plugin.wakatime.svg" />
 </p>
