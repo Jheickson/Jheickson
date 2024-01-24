@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jheickson&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=750" />
+  <img src="https://streak-stats.demolab.com?user=Jheickson&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=750" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="github-metrics.svg" />
+  <img src="github-metrics.svg" alt="Github Metrics" />
 </p>
 
 <p align="center">
-  <img src="metrics.plugin.wakatime.svg" />
+  <img src="metrics.plugin.wakatime.svg" alt="WakaTime Metrics" />
 </p>
