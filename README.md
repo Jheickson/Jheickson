@@ -25,3 +25,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="metrics.plugin.wakatime.svg" alt="WakaTime Metrics" />
 </p>
+
+<div align="center">
+
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Hollic_&loved=true&show_user=header&count=10&loved_style=3&bg_color=0000&footer_style=wave&width=600)](https://www.last.fm/user/Hollic_)
+
+</div>
