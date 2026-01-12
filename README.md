@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jheickson&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=750" alt="Streak Stats" />
 </p>
@@ -31,3 +30,7 @@ Here are some ideas to get you started:
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Hollic_&loved=true&show_user=header&count=10&loved_style=3&bg_color=0000&footer_style=wave&width=600)](https://www.last.fm/user/Hollic_)
 
 </div>
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Jheickson.Jheickson" />
+</p>
