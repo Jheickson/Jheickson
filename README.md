@@ -1,42 +1,76 @@
-<!--
-### Hi there 👋
-**Jheickson/Jheickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jheickson 👋
 
-Here are some ideas to get you started:
+**Computer Science student and software developer interested in Linux, systems, developer tooling, and building useful software.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a background in web development and am currently broadening my focus toward lower-level programming, developer tools, and the systems around the software we use every day.
 
-<!--
+## 👨‍💻 About Me
+
+- 🎓 Computer Science student, currently finishing my degree
+- 💻 Around 3 years of software development experience
+- 🐧 Linux enthusiast and NixOS user
+- 🔭 Currently exploring **Rust, Go, systems programming, and developer tooling**
+- 🌱 Interested in understanding how software works beneath the abstractions I use every day
+- 🧩 I enjoy turning technical curiosity into practical projects
+- 📫 Reach me through the links below
+
+## 🛠️ Technologies
+
+### Languages
+
+`TypeScript` · `JavaScript` · `Python` · `Nix` · `Rust` · `Go`
+
+### Tools & Platforms
+
+`Linux` · `NixOS` · `Git` · `Docker` · `PostgreSQL` · `MongoDB`
+
+### Currently Exploring
+
+`Rust` · `Go` · `Systems Programming` · `Developer Tooling` · `TUI Applications`
+
+## 🚀 Featured Projects
+
+### [NixOS Configuration](https://github.com/Jheickson/nix-config)
+
+A modular, declarative NixOS and Home Manager configuration focused on reproducibility, customization, and a cohesive desktop environment. Includes Niri, Stylix-based theming, dynamic wallpaper-driven palettes, and host-specific configuration.
+
+**Tech:** `Nix` · `NixOS` · `Home Manager` · `Wayland`
+
+### [Compiladores](https://github.com/Jheickson/Compiladores)
+
+Coursework exploring compiler construction and the different stages of a compiler, including lexical, syntactic, semantic, and intermediate-code analysis.
+
+**Tech:** `[Verify language/tooling]` · `Compiler Design`
+
+### [Cálculo Numérico](https://github.com/Jheickson/Calculo-Numerico)
+
+A collection of numerical-computing work exploring computational methods and mathematical problem solving.
+
+**Tech:** `[Verify language/tooling]` · `Numerical Computing`
+
+### [CloneBnB](https://github.com/Jheickson/CloneBnB)
+
+A full-stack application inspired by Airbnb, with a React frontend, API/backend, and database integration.
+
+**Tech:** `React` · `JavaScript/TypeScript` · `MongoDB` · `[Verify backend stack]`
+
+## 📊 GitHub
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jheickson&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=750" alt="Streak Stats" />
-</p>
--->
-
-<p align="center">
-  <img src="github-metrics.svg" alt="Github Metrics" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
   <img src="metrics.plugin.wakatime.svg" alt="WakaTime Metrics" />
 </p>
 
-<!--
-<div align="center">
+## 📫 Get in Touch
 
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Hollic_&loved=true&show_user=header&count=10&loved_style=3&bg_color=0000&footer_style=wave&width=600)](https://www.last.fm/user/Hollic_)
+- **GitHub:** [@Jheickson](https://github.com/Jheickson)
+- **LinkedIn:** `[Add LinkedIn]`
+- **Email:** `[Add preferred public email]`
+- **Website / Portfolio:** `[Add if applicable]`
 
-</div>
+---
 
--->
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Jheickson.Jheickson" />
-</p>
+<sub>Built with Markdown, Nix, and an unreasonable amount of configuration.</sub>
