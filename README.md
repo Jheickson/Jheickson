@@ -1,21 +1,21 @@
-# Hi, I'm Jheickson 👋
+# Hi, I'm Jheickson
 
 **Computer Science student and software developer interested in Linux, systems, developer tooling, and building useful software.**
 
 I have around 3 years of software development experience, including web development with Laravel and React, and I'm currently broadening my focus toward lower-level programming, developer tools, and the systems around the software we use every day.
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Computer Science student, currently finishing my degree
-- 💻 Around 3 years of software development experience
-- 🐘 Professional experience building Laravel applications
-- ⚛️ Experience with React, TypeScript, and full-stack applications
-- 🐧 Linux enthusiast and NixOS user
-- 🔭 Currently exploring **Rust, Go, systems programming, and developer tooling**
-- 🌱 Interested in understanding how software works beneath the abstractions I use every day
-- 🧩 I enjoy turning technical curiosity into practical projects
+- Computer Science student, currently finishing my degree
+- Around 3 years of software development experience
+- Professional experience building Laravel applications
+- Experience with React, TypeScript, and full-stack applications
+- Linux enthusiast and NixOS user
+- Currently exploring **Rust, Go, systems programming, and developer tooling**
+- Interested in understanding how software works beneath the abstractions I use every day
+- I enjoy turning technical curiosity into practical projects
 
-## 🛠️ Technologies
+## Technologies
 
 ### Languages
 
@@ -33,7 +33,7 @@ I have around 3 years of software development experience, including web developm
 
 `Rust` · `Go` · `Systems Programming` · `Developer Tooling` · `TUI Applications`
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Sétimo Ano — Full-Stack Platform](https://github.com/meteora-digital/setimo-ano-fase-um)
 
@@ -49,19 +49,7 @@ A modular, declarative NixOS and Home Manager configuration focused on reproduci
 
 **Tech:** `Nix` · `NixOS` · `Home Manager` · `Wayland`
 
-### [Compiladores](https://github.com/Jheickson/Compiladores)
-
-University coursework exploring compiler construction and the stages involved in processing and translating programming languages.
-
-**Tech:** `[Verify language/tooling]` · `Compiler Design`
-
-### [Cálculo Numérico](https://github.com/Jheickson/Calculo-Numerico)
-
-University coursework focused on numerical computing and computational approaches to mathematical problems.
-
-**Tech:** `[Verify language/tooling]` · `Numerical Computing`
-
-## 📊 GitHub
+## GitHub
 
 <p align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
@@ -71,7 +59,7 @@ University coursework focused on numerical computing and computational approache
   <img src="metrics.plugin.wakatime.svg" alt="WakaTime Metrics" />
 </p>
 
-## 📫 Get in Touch
+## Get in Touch
 
 - **GitHub:** [@Jheickson](https://github.com/Jheickson)
 - **LinkedIn:** [linkedin.com/in/jheickson/](https://linkedin.com/in/jheickson/)
