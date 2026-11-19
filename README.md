@@ -35,13 +35,17 @@ I have around 3 years of software development experience, including web developm
 
 ## Featured Projects
 
-### [Sétimo Ano — Full-Stack Platform](https://github.com/meteora-digital/setimo-ano-fase-um)
+### [Wordle — Terminal Word Game](https://github.com/Jheickson/Wordle)
 
-A production-oriented full-stack application built with a Laravel 12 API and React 19 frontend. The repository is organized as a complete application stack, including Docker-based infrastructure, PostgreSQL, Redis, Laravel queues and Reverb WebSockets, Nginx routing, development tooling, CI/CD and deployment documentation.
+A Wordle clone that lives in the terminal, written in Rust with ratatui — no browser, and nothing to install beyond the binary. Six word sizes (3–8 letters), an adjustable guess limit, frequency-aware feedback, an on-screen QWERTY keyboard, and a responsive layout that stays playable from 80×24. Word lists are embedded at compile time, and every finished game is recorded in a local SQLite database, feeding streaks, guess distributions, and opening-word stats.
 
-The system also integrates with external services including Asaas, Autentique, Bubble, Omie and DigitalOcean, with documented webhook validation, HMAC verification, idempotency and integration testing.
+It ships as a Nix flake for x86_64/aarch64 Linux and macOS, so playing is one command:
 
-**Tech:** `PHP` · `Laravel` · `React` · `TypeScript` · `PostgreSQL` · `Redis` · `Docker` · `Nginx`
+```sh
+nix run github:Jheickson/Wordle
+```
+
+**Tech:** `Rust` · `Ratatui` · `SQLite` · `Nix`
 
 ### [NixOS Configuration](https://github.com/Jheickson/nix-config)
 
