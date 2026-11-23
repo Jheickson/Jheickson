@@ -4,6 +4,13 @@
 
 I have around 3 years of software development experience, including web development with Laravel and React, and I'm currently broadening my focus toward lower-level programming, developer tools, and the systems around the software we use every day.
 
+## Get in Touch
+
+- **GitHub:** [@Jheickson](https://github.com/Jheickson)
+- **LinkedIn:** [linkedin.com/in/jheickson/](https://linkedin.com/in/jheickson/)
+- **Email:** [jheickson@protonmail.com](mailto:jheickson@protonmail.com)
+- **Website:** [jheickson.github.io](https://jheickson.github.io)
+
 ## About Me
 
 - Computer Science student, currently finishing my degree
@@ -62,13 +69,6 @@ A modular, declarative NixOS and Home Manager configuration focused on reproduci
 <p align="center">
   <img src="metrics.plugin.wakatime.svg" alt="WakaTime Metrics" />
 </p>
-
-## Get in Touch
-
-- **GitHub:** [@Jheickson](https://github.com/Jheickson)
-- **LinkedIn:** [linkedin.com/in/jheickson/](https://linkedin.com/in/jheickson/)
-- **Email:** [jheickson@protonmail.com](mailto:jheickson@protonmail.com)
-- **Website:** Coming soon
 
 ---
 
