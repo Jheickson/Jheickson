@@ -4,7 +4,9 @@
 
 I have around 3 years of software development experience, including web development with Laravel and React, and I'm currently broadening my focus toward lower-level programming, developer tools, and the systems around the software we use every day.
 
-<u>[GITHUB](https://github.com/Jheickson)</u> · <u>[LINKEDIN](https://www.linkedin.com/in/jheickson)</u> · <u>[EMAIL](mailto:jheickson@protonmail.com)</u> · <u>[WEBSITE](https://jheickson.github.io)</u>
+<p align="center">
+<a href="https://github.com/Jheickson"><u>GITHUB</u></a> · <a href="https://www.linkedin.com/in/jheickson"><u>LINKEDIN</u></a> · <a href="mailto:jheickson@protonmail.com"><u>EMAIL</u></a> · <a href="https://jheickson.github.io"><u>WEBSITE</u></a>
+</p>
 
 ## About Me
 
